@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Deeksha57/spotify-clone-reactjs/static/css/main.06b2b5a6.chunk.css",
-    "main.js": "/Deeksha57/spotify-clone-reactjs/static/js/main.1e8d460a.chunk.js",
-    "main.js.map": "/Deeksha57/spotify-clone-reactjs/static/js/main.1e8d460a.chunk.js.map",
-    "runtime-main.js": "/Deeksha57/spotify-clone-reactjs/static/js/runtime-main.4578f6ab.js",
-    "runtime-main.js.map": "/Deeksha57/spotify-clone-reactjs/static/js/runtime-main.4578f6ab.js.map",
-    "static/js/2.a26ab584.chunk.js": "/Deeksha57/spotify-clone-reactjs/static/js/2.a26ab584.chunk.js",
-    "static/js/2.a26ab584.chunk.js.map": "/Deeksha57/spotify-clone-reactjs/static/js/2.a26ab584.chunk.js.map",
-    "index.html": "/Deeksha57/spotify-clone-reactjs/index.html",
-    "precache-manifest.155928d26035bbbd40b8be9a81055e69.js": "/Deeksha57/spotify-clone-reactjs/precache-manifest.155928d26035bbbd40b8be9a81055e69.js",
-    "service-worker.js": "/Deeksha57/spotify-clone-reactjs/service-worker.js",
-    "static/css/main.06b2b5a6.chunk.css.map": "/Deeksha57/spotify-clone-reactjs/static/css/main.06b2b5a6.chunk.css.map"
+    "main.css": "/spotify-clone-reactjs/static/css/main.06b2b5a6.chunk.css",
+    "main.js": "/spotify-clone-reactjs/static/js/main.1e8d460a.chunk.js",
+    "main.js.map": "/spotify-clone-reactjs/static/js/main.1e8d460a.chunk.js.map",
+    "runtime-main.js": "/spotify-clone-reactjs/static/js/runtime-main.d130e3d7.js",
+    "runtime-main.js.map": "/spotify-clone-reactjs/static/js/runtime-main.d130e3d7.js.map",
+    "static/js/2.a26ab584.chunk.js": "/spotify-clone-reactjs/static/js/2.a26ab584.chunk.js",
+    "static/js/2.a26ab584.chunk.js.map": "/spotify-clone-reactjs/static/js/2.a26ab584.chunk.js.map",
+    "index.html": "/spotify-clone-reactjs/index.html",
+    "precache-manifest.a02f3581007f8a067d9bfb2cc692c754.js": "/spotify-clone-reactjs/precache-manifest.a02f3581007f8a067d9bfb2cc692c754.js",
+    "service-worker.js": "/spotify-clone-reactjs/service-worker.js",
+    "static/css/main.06b2b5a6.chunk.css.map": "/spotify-clone-reactjs/static/css/main.06b2b5a6.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4578f6ab.js",
+    "static/js/runtime-main.d130e3d7.js",
     "static/js/2.a26ab584.chunk.js",
     "static/css/main.06b2b5a6.chunk.css",
     "static/js/main.1e8d460a.chunk.js"
